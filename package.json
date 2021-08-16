@@ -8,7 +8,7 @@
 		"dev": "NOTERSER=1 rollup -c -w"
 	},
 	"devDependencies": {
-		"@directus/extension-sdk": "^9.0.0-rc.83",
+		"@directus/extension-sdk": "^9.0.0-rc.90",
 		"@rollup/plugin-node-resolve": "^13.0.0",
 		"@rollup/plugin-replace": "^2.4.2",
 		"node-sass": "^6.0.1",
